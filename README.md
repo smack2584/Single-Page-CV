@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Single-Page CV</title>
+<h3>Single-Page CV</h3>
 </head>
 <body>
 <main>
@@ -26,11 +26,13 @@
 <h3>January 2024 to August 2024</h3>
 <ul>List of Achievements</ul>
 <li>certificaste of appreciation</li>
-<li>mlost hard working employee of the month</li>
+<li>most hard working employee of the month</li>
 <h3>skills: communication skills, writing invoices</h3>
 <br><br>
 <h3>across the internet<h3>
-<a href="
+ 
+   <a href="https://github.com/smack2584">smack2584
+ </a>
 </div>
 </main>
 </body>
